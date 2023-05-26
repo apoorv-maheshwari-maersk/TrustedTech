@@ -21,7 +21,7 @@ class CropCatalogCard extends Component {
                         <div className="viewProductBtnContainer">
                             <Link to={{ pathname: '/product', state: { cropName, details } }}>    
                                 <div className='viewProductBtn'> 
-                                    View Crop Details
+                                    View Medicine Details
                                 </div>
                             </Link>
                         </div>
