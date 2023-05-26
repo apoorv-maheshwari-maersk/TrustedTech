@@ -1,0 +1,100 @@
+.updateLocationModalContainer .ui.modal{
+    margin: 0;
+    padding: 0;
+    width: 95% !important;
+}
+
+.updateLocation-container{
+    margin: 2rem 3rem;
+}
+
+.updateLocationHeader
+{
+    text-align: center;
+    margin-top: -3rem;
+    padding: 0rem 2.5rem 1.7rem 2.5rem;
+}
+
+.updateLocationHeader h2{
+    font-family: 'Roboto';
+    letter-spacing: 2px;
+    font-size: 31px;
+    color: #ee6e6c;
+}
+
+.updateLocationSubHead{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 2rem;
+}
+
+.updateLocationSubHead h3{
+    margin: 0 2rem;
+    padding: 0;
+    font-size: 15.6px;
+    color: #052350;
+    font-weight: 600;
+    font-family: 'Nunito';
+}
+
+.updateLocation-form{
+    text-align: center;
+    justify-items: center;
+}
+
+.updateLocation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.updateLocation label{
+    color: #052350;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 15.7px;
+    text-align: left;
+    margin: 1rem 0 .6rem 0;
+}
+
+.updateLocation input{
+    padding: 1rem;
+    width: 100%;
+    outline: none;
+    font-size: 14.7px;
+    border-radius: 5px;
+    border: 1px solid var(--dark-grey);
+    font-family: 'Nunito';
+    font-weight: 600;
+    color: var(--font-color);
+    margin-bottom: 1rem;
+}
+
+.updateLocation input:focus{
+    border: 1px solid var(--font-color);
+}
+
+.updateLocationBtn{
+    margin-top: 1rem;
+}
+
+.update-cta
+{
+    padding: 14px 40px;
+    font-size: 14px;
+    font-weight: 700;
+    background: transparent;
+    border: 1.3px solid var(--font-color);
+    cursor: pointer;
+    color: var(--font-color);
+    border-radius: 5px;
+    transition: all 0.3s ease 0s;
+    outline: none;
+}
+
+.update-cta:hover {
+    box-shadow: 0 2px 8px rgba(47, 72, 88, .30), 0 3px 3px rgba(47, 72, 88, .22);
+}
