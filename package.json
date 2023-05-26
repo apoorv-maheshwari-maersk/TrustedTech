@@ -2,7 +2,7 @@
   "name": "foodgrain-scm",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://apoorv-maheshwari-maersk.github.io/Agro/",
+  "homepage": "https://apoorv-maheshwari-maersk.github.io/TrustedTech",
   "dependencies": {
     "crypto-js": "^4.1.1",
     "eosjs": "^20.0.3",
