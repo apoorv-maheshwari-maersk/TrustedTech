@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Hero.css';
 import gif from '../../static/images/farmer.png';
-import LoginPage from '../../pages/LoginPage'
 
 function Hero()
 {

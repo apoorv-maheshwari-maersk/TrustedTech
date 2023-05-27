@@ -82,10 +82,10 @@ export class LoginPage extends Component {
                                                 <button className="login-cta"
                                                     name="submit-button"
                                                     value="Upload"
-                                                    onClick={() =>
-                                                        this.props.loginClick(this.state.username, this.state.passw)
-                                                    }
-                                                    // onClick={this.close}
+                                                    // onClick={() =>
+                                                    //     this.props.loginClick(this.state.username, this.state.passw)
+                                                    // }
+                                                    onClick={this.close}
                                                 >
                                                     Log In
                                             </button>

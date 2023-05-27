@@ -76,7 +76,7 @@ class Nav extends Component {
                     </Link>
                     <nav>
                         <ul className="nav_links-container">
-                            {loggedIn ?
+                            
                             <React.Fragment>
                                 <Link to="/add_crop">
                                     <li className="nav_links">
@@ -90,7 +90,7 @@ class Nav extends Component {
                                 </Link>
                             </React.Fragment> :
                             <React.Fragment></React.Fragment>
-                            }
+                        
                             <Link to="/crop_tracking">
                                 <li className="nav_links">
                                     <p className="nav_text" >Track</p>

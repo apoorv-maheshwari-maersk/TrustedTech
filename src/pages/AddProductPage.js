@@ -136,7 +136,7 @@ class AddProductPage extends Component {
                                         id="pro"
                                         type="text"
                                         name="crop-name"
-                                        placeholder="Crop name"
+                                        placeholder="Medicine name"
                                         value={this.state.pname}
                                         onChange={(e) => {
                                             this.setState({ pname: e.target.value });
@@ -150,7 +150,7 @@ class AddProductPage extends Component {
                                         id="price"
                                         type="number"
                                         name="crop-price"
-                                        placeholder="Crop price"
+                                        placeholder="Medicine price"
                                         value={this.state.price}
                                         onChange={(e) => {
                                             this.setState({ price: e.target.value });
@@ -164,7 +164,7 @@ class AddProductPage extends Component {
                                         id="amount"
                                         type="date"
                                         name="crop-amount"
-                                        placeholder="Date of Harvest"
+                                        placeholder="Date of Manufacture"
                                         value={this.state.sow}
                                         onChange={(e) => {
                                             this.setState({ sow: String(e.target.value) });
@@ -178,7 +178,7 @@ class AddProductPage extends Component {
                                         id="amount"
                                         type="date"
                                         name="crop-amount"
-                                        placeholder="Date of Harvest"
+                                        placeholder="Date of Manufacture"
                                         value={this.state.harvest}
                                         onChange={(e) => {
                                             this.setState({ harvest: String(e.target.value) });
@@ -206,7 +206,7 @@ class AddProductPage extends Component {
                                         id="amount"
                                         type="number"
                                         name="crop-amount"
-                                        placeholder="Crop Amount"
+                                        placeholder="Medicies Amount"
                                         value={this.state.camount}
                                         onChange={(e) => {
                                             this.setState({ camount: e.target.value });
@@ -220,7 +220,7 @@ class AddProductPage extends Component {
                                         id="amount"
                                         type="text"
                                         name="crop-fertilizer"
-                                        placeholder="Fertilizer or Manure Name"
+                                        placeholder="Chemical or Drug Name"
                                         value={this.state.fertilizer}
                                         onChange={(e) => {
                                             this.setState({ fertilizer: e.target.textContent });
