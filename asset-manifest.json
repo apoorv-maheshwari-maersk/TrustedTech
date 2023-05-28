@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Agro/static/css/main.07eda984.chunk.css",
+    "main.js": "/Agro/static/js/main.4bdc8eba.chunk.js",
+    "main.js.map": "/Agro/static/js/main.4bdc8eba.chunk.js.map",
+    "runtime-main.js": "/Agro/static/js/runtime-main.aaee32ec.js",
+    "runtime-main.js.map": "/Agro/static/js/runtime-main.aaee32ec.js.map",
+    "static/js/2.d8417c2c.chunk.js": "/Agro/static/js/2.d8417c2c.chunk.js",
+    "static/js/2.d8417c2c.chunk.js.map": "/Agro/static/js/2.d8417c2c.chunk.js.map",
+    "index.html": "/Agro/index.html",
+    "precache-manifest.6224090951286932fb9b8df2eb397f0a.js": "/Agro/precache-manifest.6224090951286932fb9b8df2eb397f0a.js",
+    "service-worker.js": "/Agro/service-worker.js",
+    "static/css/main.07eda984.chunk.css.map": "/Agro/static/css/main.07eda984.chunk.css.map",
+    "static/js/2.d8417c2c.chunk.js.LICENSE.txt": "/Agro/static/js/2.d8417c2c.chunk.js.LICENSE.txt",
+    "static/js/main.4bdc8eba.chunk.js.LICENSE.txt": "/Agro/static/js/main.4bdc8eba.chunk.js.LICENSE.txt",
+    "static/media/Grain.jpg": "/Agro/static/media/Grain.4a40f39c.jpg",
+    "static/media/addProduct.png": "/Agro/static/media/addProduct.71ffaa02.png",
+    "static/media/buy.png": "/Agro/static/media/buy.4a633ef1.png",
+    "static/media/explore.png": "/Agro/static/media/explore.82fa206b.png",
+    "static/media/farmer.png": "/Agro/static/media/farmer.01750d7c.png",
+    "static/media/penny.png": "/Agro/static/media/penny.6002450e.png",
+    "static/media/upload.png": "/Agro/static/media/upload.184b7313.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaee32ec.js",
+    "static/js/2.d8417c2c.chunk.js",
+    "static/css/main.07eda984.chunk.css",
+    "static/js/main.4bdc8eba.chunk.js"
+  ]
+}
